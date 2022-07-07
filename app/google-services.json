@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "49913198474",
+    "firebase_url": "https://phone-authenticatiion.firebaseio.com",
+    "project_id": "phone-authenticatiion",
+    "storage_bucket": "phone-authenticatiion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49913198474:android:006ae2cde9c8348f4a7a73",
+        "android_client_info": {
+          "package_name": "com.shailu.phoneauthenticatiion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49913198474-c3p6ae2nlp16ca2m7b485qundrqinhcp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shailu.phoneauthenticatiion",
+            "certificate_hash": "9f4795d2e136628b115c9c31bb2f0952a368c76d"
+          }
+        },
+        {
+          "client_id": "49913198474-rhiv2vtqom4p5qequ61cjb4t35mgvgcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAakoWZVdHtxtvE_hcMSxBHzBmZvGSqYbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49913198474-rhiv2vtqom4p5qequ61cjb4t35mgvgcl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
